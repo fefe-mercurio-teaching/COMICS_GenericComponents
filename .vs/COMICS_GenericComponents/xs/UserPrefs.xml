@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{58F11C67-C0A7-40D1-BDAE-8DAA4F201A94}|Default">
+  <MonoDevelop.Ide.ItemProperties.COMICS__GenericComponents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="COMICS_GenericComponents/GameObject.cs">
+    <Files>
+      <File FileName="COMICS_GenericComponents/Program.cs" Line="20" Column="10" />
+      <File FileName="COMICS_GenericComponents/Component.cs" Line="5" Column="6" />
+      <File FileName="COMICS_GenericComponents/Rigidbody.cs" Line="5" Column="6" />
+      <File FileName="COMICS_GenericComponents/Collider.cs" Line="4" Column="23" />
+      <File FileName="COMICS_GenericComponents/GameObject.cs" Line="22" Column="38" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COMICS_GenericComponents" expanded="True">
+            <Node name="COMICS_GenericComponents" expanded="True">
+              <Node name="GameObject.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

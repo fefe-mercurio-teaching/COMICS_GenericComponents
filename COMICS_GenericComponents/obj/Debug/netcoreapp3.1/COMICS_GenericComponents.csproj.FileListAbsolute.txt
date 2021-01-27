@@ -1,0 +1,12 @@
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/bin/Debug/netcoreapp3.1/COMICS_GenericComponents.deps.json
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/bin/Debug/netcoreapp3.1/COMICS_GenericComponents.runtimeconfig.json
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/bin/Debug/netcoreapp3.1/COMICS_GenericComponents.runtimeconfig.dev.json
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/bin/Debug/netcoreapp3.1/COMICS_GenericComponents.dll
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/bin/Debug/netcoreapp3.1/COMICS_GenericComponents.pdb
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/obj/Debug/netcoreapp3.1/COMICS_GenericComponents.csprojAssemblyReference.cache
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/obj/Debug/netcoreapp3.1/COMICS_GenericComponents.AssemblyInfoInputs.cache
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/obj/Debug/netcoreapp3.1/COMICS_GenericComponents.AssemblyInfo.cs
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/obj/Debug/netcoreapp3.1/COMICS_GenericComponents.csproj.CoreCompileInputs.cache
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/obj/Debug/netcoreapp3.1/COMICS_GenericComponents.dll
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/obj/Debug/netcoreapp3.1/COMICS_GenericComponents.pdb
+/Users/fefe/Projects/COMICS_GenericComponents/COMICS_GenericComponents/obj/Debug/netcoreapp3.1/COMICS_GenericComponents.genruntimeconfig.cache
